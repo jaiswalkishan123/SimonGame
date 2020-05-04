@@ -75,8 +75,8 @@ function startOver()
   level=0;
   gamePattern=[];
   start=false;
-  $("input").html("");
-  $("label").fadeIn();
+ 
+ 
   $("input").fadeIn();
 
 }
